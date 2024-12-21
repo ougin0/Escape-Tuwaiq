@@ -12,4 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dce4a06e6b0cdc7418ad205e6a72eb7e, type: 3}
   m_Name: AudioLibrary
   m_EditorClassIdentifier: 
-  tracks: []
+  tracks:
+  - trackType: 2
+    trackName: PuzzleSolved
+    clip: {fileID: 8300000, guid: 9c6b3d7b896a01f409c6456743eac96c, type: 3}
+    locationType: 0
+    roomTransform: {fileID: 0}
+    allowCustomTrackType: 0
+    volume: 0
+    pitch: 0
+    spatialBlend: 0
+    minDistance: 0
+    maxDistance: 0
